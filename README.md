@@ -36,7 +36,6 @@ Essa função lê o arquivo "ranking.txt" que contém os nomes dos jogadores e o
 Ela armazena os melhores rankings em um array <code>ranking[]</code> e os nomes dos jogadores em um array bidimensional <code>nomes[][]</code>.
 Os rankings são determinados com base no menor número de tentativas. Portanto, quanto menor o número de tentativas, melhor o ranking.
 A função exibe os melhores rankings na tela, mostrando o nome do jogador e o número de tentativas para acertar o número secreto.</li>
-        <li>A função <code>humano()</code> é responsável pela jogada do usuário. Ela solicita ao usuário a posição desejada e faz a jogada, desde que a posição esteja vazia.</li>
         <li>A função <code>limparRanking()</code>:
 
 Essa função é responsável por limpar o conteúdo do arquivo "ranking.txt", apagando todos os dados armazenados nele.
