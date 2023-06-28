@@ -5,7 +5,7 @@
 </head>
 <body>
     <h1>Jogo da Adivinhação em C</h1>
-    <p>Este é um simples jogo da adivinhação.</p>
+    <p>Este é um simples jogo de adivinhação feito em C.</p>
     <h2>Instruções</h2>
     <ol>
         <li>Para jogar, basta executar o programa em um compilador C.</li>
